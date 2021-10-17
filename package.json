@@ -1,5 +1,5 @@
 {
-  "name": "dui",
+  "name": "dcyelementui",
   "version": "0.1.0",
   "private": false,
   "scripts": {
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dcy00/elementPlus2Vue.git"
+    "url": "git+https://github.com/dcy00/elementPlus2Vue.git"
   },
   "contributors": [
     "alex_xu",
